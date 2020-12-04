@@ -10,7 +10,7 @@ NCS기반의 교육 과정을 통해 HTML5 / CSS3 / jQuery의 기초를 학습�
 
 ### Interest.
 기록하는 습관을 기르기 위해 라이프스타일매거진 'Conceptzine'의 100일 글쓰기 프로젝트에 참여하고 있습니다.<br>
-tmi) 62일째 진행중!
+tmi) 65일째 진행중!
 
 <!--
 **lee-haell/lee-haell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
