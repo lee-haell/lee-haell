@@ -7,10 +7,6 @@
 NCS기반의 교육 과정을 통해 HTML5 / CSS3 / jQuery를 학습하여 반응형 프로젝트를 구현했습니다.<br>
 현재 Github와 개발 블로그에 공부 과정을 꾸준히 기록하고 있습니다.<br>
 
-### Interest.
-기록하는 습관을 갖기 위해 라이프스타일매거진 'Conceptzine'의 100일 글쓰기 프로젝트에 참여했습니다 📝<br>
-tmi) 100일 진행 완료!
-
 <!--
 **lee-haell/lee-haell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
