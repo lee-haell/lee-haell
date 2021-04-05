@@ -6,7 +6,9 @@
 사용자의 경험을 생각하는 UI 마크업을 목표로 공부하고 있습니다.<br>
 NCS기반의 교육 과정을 통해 HTML5 / CSS3 / jQuery로 반응형 프로젝트를 구현했습니다.<br>
 현재 Github와 기술 블로그에 공부 과정을 기록하고 있습니다.<br>
-
+<br>
+> 이코린의 코딩-가딩 [기술블로그 바로가기][기술블로그 바로가기]
+[기술블로그 바로가기]: https://haeeeell.tistory.com/
 <!--
 **lee-haell/lee-haell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
