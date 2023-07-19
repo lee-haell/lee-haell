@@ -6,7 +6,7 @@
 사용자의 경험을 생각하는 UI 마크업을 목표로 하고 있습니다.<br>
 - HTML5 / CSS3 / jQuery <br>
 <br>
-> TecBlog https://haeeeell.tistory.com/
+> [TecBlog https://haeeeell.tistory.com/](https://haell.notion.site/STUDY-784a901abf0545c698f4e160c9f60f93?pvs=4)
 <!--
 **lee-haell/lee-haell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
